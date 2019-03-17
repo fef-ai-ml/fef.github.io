@@ -13,4 +13,4 @@ Now, I am enthusiatic with data field, like
 - Artificial Intelligence.
 
 {: style="text-align: justify"}
-From August 2018 until now, I am with the dream team develop Graph system that can be a single source of truth and doing some analytic and ETL for big data processing which heavy processing in memory. This is something that I never do before, so I am very interesting with this process, work and of course this project.
+From August 2018 until now, I am with the dream team develop Graph system that can be a single source of truth for recommendation systems and doing some analytic and ETL for big data processing which heavy processing in memory. This is something that I never do before, so I am very interesting with this process, work and of course this project.
