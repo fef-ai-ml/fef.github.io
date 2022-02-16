@@ -1,6 +1,17 @@
 ---
-layout: page
+layout: default
 ---
-{{ content }}
-<div class="just-comments" data-apikey="bd783440-fe71-4574-8bef-6a41130248c8">
-</div>
+
+<article class="post">
+  <h1>{{ page.title }}</h1>
+
+  <div class="entry">
+    {{ content }}
+  </div>
+
+  <div class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }}
+  </div>
+
+  {% include disqus.html %}
+</article>
